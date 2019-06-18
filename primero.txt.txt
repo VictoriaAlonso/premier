@@ -1,2 +1,3 @@
 18 de Junio de 2019
 Curso de Github con Oscar
+Es mejor hacer los cambios en local
