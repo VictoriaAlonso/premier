@@ -3,3 +3,4 @@ Curso de Github con Oscar
 Es mejor hacer los cambios en local
 push and pull
 Cambio rama1
+Cambio en master para generar conflicto
