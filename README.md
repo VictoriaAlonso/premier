@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Premier GitHub Page
 
 You can use the [editor on GitHub](https://github.com/VictoriaAlonso/premier/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
